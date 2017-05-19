@@ -1,2 +1,2 @@
 # GitTest
-这个是测试本地Git联机GitHub
+这个是测试GitHub直接上传代码
